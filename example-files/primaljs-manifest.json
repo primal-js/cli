@@ -1,0 +1,12 @@
+{
+  "projectToken": "1234",
+  "rootDir": "/",
+  "transpiler": "vue",
+  "components": [
+    {
+      "name": "Button.vue",
+      "version": "1.0.0",
+      "dependencies": [ ]
+    }
+  ]
+}
